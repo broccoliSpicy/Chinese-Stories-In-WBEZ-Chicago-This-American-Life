@@ -1,5 +1,6 @@
 # Chinese-Stories-In-WBEZ-Chicago-This-American-Life
 
+[#835: Children of Dave](https://www.thisamericanlife.org/835/children-of-dave)
 [#131: The Kids Are Alright](https://www.thisamericanlife.org/131/the-kids-are-alright)
 
 [#177: American Limbo](https://www.thisamericanlife.org/177/american-limbo)
